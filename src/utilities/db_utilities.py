@@ -2,7 +2,6 @@ import os
 
 import pymysql
 import pymysql.cursors
-import logging as logger
 
 from src.configs.hosts import DB_HOST
 from src.utilities.credentials_utilities import CredentialsUtility
